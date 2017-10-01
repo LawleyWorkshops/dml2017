@@ -1,5 +1,5 @@
-# Fork Your Syllabus, You Slacker! (DML Teach-In, 16 October 2017)
-Presented by [Liz Lawley](http://lawley.rit.edu/), Rochester Institute of Technology
+# Fork Your Syllabus, You Slacker! 
+[DML Teach-In, 6 October 2017](https://dml2017.sched.com/event/0f03a40b042cc1a6f4e73a78a62d0305) - Presented by [Liz Lawley](http://lawley.rit.edu/), Rochester Institute of Technology
 
 ## Session Description
 Have you ever wanted to share materials from your classes with other faculty, but found that your courseware made that nearly impossible? Or wanted a way to easily share your updates and modifications to someone else’s materials? Do you struggle to get students to respond to email? Do you wish you had better options for engaging with students working in groups without being overbearing? 
