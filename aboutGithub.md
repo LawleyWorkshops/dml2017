@@ -1,7 +1,6 @@
-# 1. GitHub Overview
-
 | [Back to Main Page](README.md) | [Next Page: 2. Using GitHub for Course Materials](usingGithub.md) |
 |--------------------------------|-----------------------------------------------------|
+# 1. GitHub Overview
 
 GitHub, at its core, is a site where anyone can store a repository (often referred to as a "repo") of documents. It is most often used to store and share source code for software projects, repos can include any type of digital file. 
 
@@ -17,7 +16,7 @@ In today's workshop, we're only going to work with the web-based interface to Gi
 | [Back to Main Page](README.md) | [Next Page: 2. Using GitHub for Course Materials](usingGithub.md) |
 |--------------------------------|-----------------------------------------------------|
 
-[Fork Your Syllabus, You Slacker! : A DML Teach-In, 6 October 2017](https://dml2017.sched.com/event/0f03a40b042cc1a6f4e73a78a62d0305) - Presented by [Liz Lawley](http://lawley.rit.edu/), Rochester Institute of Technology
+This page is part of Liz Lawley's [Fork Your Syllabus, You Slacker! : A DML Teach-In, 6 October 2017](https://dml2017.sched.com/event/0f03a40b042cc1a6f4e73a78a62d0305)
 
 
 
