@@ -11,7 +11,7 @@ In this session, I'll show you how you can use GitHub to make your course materi
 ### 1. [GitHub Overview](aboutGithub.md)
 GitHub is usually thought of as a place to host and collaborate on repositories ("repos") of software code. How can you use it for distributing class content? And more importantly, why would you want to?
 
-### 2. [Using a GitHub Repo](usingGithub.md)
+### 2. [Accessing Content on GitHub](usingGithub.md)
 You're currently using the GitHub repo that I set up for this workshop. Before you create your own, we'll take a quick tour of this one, and of one I use in a non-code-focused freshman class. 
 
 ### 3. [Slack Overview](aboutSlack.md)
@@ -23,7 +23,7 @@ I've created a Slack workspace for this workshop. We'll begin with that, rather 
 ### 5. [Creating Content on GitHub](creatingGithub.md)
 We'll walk through the process of creating a GitHub account (if you don't already have one), creating an "organization" to use for your classes, and applying for an educational discount for your class organization. 
 
-### 6. [Creating a Slack Workspace](creatingSlack.md)
+### 6. [Creating a Class Slack Workspace](creatingSlack.md)
 We'll walk through the process of creating and setting up a new Slack workspace for use in a classroom. 
 
 
