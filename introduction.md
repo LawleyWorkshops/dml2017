@@ -1,4 +1,4 @@
-| [Back to Main Page](README.md) | [Next Page: 2. Using GitHub for Course Materials](usingGitHub.md) |
+| [Back to Main Page](README.md) | [Next Page: 2. Using GitHub for Course Materials](usingGithub.md) |
 |--------------------------------|-----------------------------------------------------|
 # 1. Introduction: Understanding GitHub and Slack
 
