@@ -37,7 +37,7 @@ One of the biggest drawbacks of using any type of real-time messaging with activ
 
 Slack will make a lot more sense once you've actually used it yourself, which you'll start doing in section 3. First, however, let's take a closer look at GitHub.  
 
-| [Back to Main Page](README.md) | [Next Page: 2. Using GitHub for Course Materials](accessingGithub.md) |
+| [Back to Main Page](README.md) | [Next Page: 2. Using GitHub for Course Materials](usingGithub.md) |
 |--------------------------------|-----------------------------------------------------|
 
 ***This page is part of Liz Lawley's [Fork Your Syllabus, You Slacker! : A DML Teach-In, 6 October 2017](https://dml2017.sched.com/event/0f03a40b042cc1a6f4e73a78a62d0305)***
