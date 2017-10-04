@@ -6,25 +6,22 @@ Have you ever wanted to share materials from your classes with other faculty, bu
 
 In this session, I'll show you how you can use GitHub to make your course materials easily accessible, updatable, and shareable—even if they have nothing to do with programming! You’ll learn the basics of how GitHub works, and how to take advantage of their free classroom and student accounts to create private as well as public repositories of content. I’ll also show you how you can use the free version of Slack to create classroom conversation spaces that support class-wide announcements, group conversations for project work, private messaging with students, and easy file sharing. 
 
-## Session Topics
+## Outline of Topics
 
-### 1. [GitHub Overview](aboutGithub.md)
-GitHub is usually thought of as a place to host and collaborate on repositories ("repos") of software code. How can you use it for distributing class content? And more importantly, why would you want to?
+### 1. [Introduction: Understanding GitHub and Slack](introduction.md)
+We'll start with some basic definitions. What *are* GitHub and Slack, exactly? What are they used for, and by whom? Why would you want to use them rather than more common platforms like learning management systems (LMS), web pages, and email?  
 
-### 2. [Accessing Content on GitHub](usingGithub.md)
-You're currently using the GitHub repo that I set up for this workshop. Before you create your own, we'll take a quick tour of this one, and of one I use in a non-code-focused freshman class. 
+### 2. [Using GitHub for Course Materials](usingGithub.md)
+You're currently using the GitHub repo that I set up for this workshop. I'll take you on a quick tour of this one, and of one I use in a non-code-focused freshman class, and explain why I've chosen to use GitHub rather than our university's LMS or my own website to distribute course materials. 
 
-### 3. [Slack Overview](aboutSlack.md)
-Slack is used for both private and group messaging. But what does Slack offer that your organization's email and/or learning management system don't already provide? 
+### 3. [Using Slack](usingSlack.md)
+Before I show you how to create your own content on GitHub, we'll talk about why I use Slack for individual and group communication in my classes. You'll join a Slack workspace I've set up for this workshop, which you can then use to post questions and comments as we get into the more technical details of the two systems.  
 
-### 4. [Using Slack](usingSlack.md)
-I've created a Slack workspace for this workshop. We'll begin with that, rather than GitHub, since you'll be able to use Slack throughout the session to ask for help with things we're discussing. 
+### 4. [Creating Your Own Content on GitHub](creatingGithub.md)
+I'll show you how to create a new repo in your personal GitHub account, and how to make a copy of one of my repos that you can modify for your own use. Then I'll show you how (and why) to create a GitHub "organization" for your own classes, and how apply for an educational discount for your class organization. 
 
-### 5. [Creating Content on GitHub](creatingGithub.md)
-We'll walk through the process of creating a GitHub account (if you don't already have one), creating an "organization" to use for your classes, and applying for an educational discount for your class organization. 
-
-### 6. [Creating a Class Slack Workspace](creatingSlack.md)
-We'll walk through the process of creating and setting up a new Slack workspace for use in a classroom. 
+### 5. [Creating Your Own Class Slack Workspace](creatingSlack.md)
+If there's time, I'll walk you through the process of creating and customizing a new Slack workspace for use in your classroom. 
 
 
 
