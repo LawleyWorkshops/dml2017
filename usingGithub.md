@@ -37,7 +37,7 @@ When I'm teaching a class to students who have experience using GitHub, I invite
 Next, we'll spend some time exploring Slack.
 
 
-| [Previous Page: 1. Introduction](introduction.md) | [Back to Main Page](README.md) | [Next Page: 3. Slack Overview](usingSlack.md) |
+| [Previous: Introduction](introduction.md) | [Main Page](README.md) | [Next: Slack Overview](usingSlack.md) |
 |--------------------------------|-----------------------------|------------------------|
 
 ***This page is part of Liz Lawley's [Fork Your Syllabus, You Slacker! : A DML Teach-In, 6 October 2017](https://dml2017.sched.com/event/0f03a40b042cc1a6f4e73a78a62d0305)***

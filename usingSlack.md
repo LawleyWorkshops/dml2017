@@ -1,4 +1,4 @@
-| [Previous Page: 2. Using GitHub for Course Materials](usingGithub.md) | [Back to Main Page](README.md) | [Next Page: 4. Creating Your Own Content on GitHub](creatingGithub.md) |
+| [Previous: Using GitHub for Course Materials](usingGithub.md) | [Main Page](README.md) | [Next: Creating Your Own Content on GitHub](creatingGithub.md) |
 |--------------------------------|-----------------------------|------------------------|
 
 # 3. Using Slack
@@ -33,7 +33,7 @@ I have not stopped using email for communicating with students, of course. Anyth
 
 Ideally, though, I want them to see Slack as a good way to ask questions, make comments, and get help. I've found that once I get them over the adoption hump, they really appreciate its informality and ephemerality, and I get far more opportunities to hear from students who have questions or concerns than I did in the past. 
 
-| [Previous Page: 2. Using GitHub for Course Materials](usingGithub.md) | [Back to Main Page](README.md) | [Next Page: 4. Creating Your Own Content on GitHub](creatingGithub.md) |
+| [Previous: Using GitHub for Course Materials](usingGithub.md) | [Main Page](README.md) | [Next: Creating Your Own Content on GitHub](creatingGithub.md) |
 |--------------------------------|-----------------------------|------------------------|
 
 ***This page is part of Liz Lawley's [Fork Your Syllabus, You Slacker! : A DML Teach-In, 6 October 2017](https://dml2017.sched.com/event/0f03a40b042cc1a6f4e73a78a62d0305)***
