@@ -1,7 +1,7 @@
-| [Previous: Using GitHub for Course Materials](usingGithub.md) | [Main Page](README.md) | [Next: Creating Your Own Content on GitHub](creatingGithub.md) |
+| [Previous: Using GitHub](usingGithub.md) | [Main Page](README.md) | [Next: Creating GitHub Content](creatingGithub.md) |
 |--------------------------------|-----------------------------|------------------------|
 
-# 3. Using Slack for a Course
+# 3. Using Slack for Class Communication
 
 Many LMS systems provide group and private chat options now, and our students certainly don't lack for real-time communication tools to talk to us and each other. So why add another tool to the mix? And why Slack in particular?
 
@@ -18,42 +18,46 @@ Getting students (or any group!) to adopt new communication tools can be a chall
 
 For privacy reasons, I can't give you a live tour of my class workspaces, but I've created anonymized screenshots to illustrate some of my approaches.
 
-### Announcements Channel
-I renamed the default \#general channel to \#announcements, and set it so that only my TAs and I can post to it. I use it let them know about useful things, like upcoming deadlines, extensions on due dates, and why I might be a few minutes late for class; that gives them a good reason to set up the mobile client and enable notifications. And because nobody else can post there, they don't mind turning notifications on for that channel. 
+### Preventing Notification Spam
+One of the biggest problems with having students (or anyone else) adopt a new chat tool is the risk that they'll have to deal with too much unwanted/unnecessary chatter. But if students don't install the mobile client and turn on notifications, they'll lose much of the value of the tool. 
+
+To address that problem, I renamed the \#general channel (which all new users are automatically subscribed to by default) to \#announcements, and set it so that only my TAs and I can post to it. I use that channel to let them know about useful things, like upcoming deadlines, extensions on due dates, and why I might be a few minutes late for class; that gives them a good reason to set up the mobile client and enable notifications. Because nobody but the TAs and I can post there, they don't mind keeping notifications turned on for that channel. 
 
 ![Class announcements channel](images/slack-classroom-announcements.png)
 
+I also walk them through how to change notifications for the workspace, so that they don't get constant notifications from channels that are lower priority. 
+
 ### Inviting Information Engagement
-I create some non-classwork channels that invite participation--this semester I created a music suggestions channel where they can post songs they'd like me to add to the class playlist (which I play on in the background when they're working on in-class exercises). 
+I create some non-classwork channels that invite participation--this semester I created a music suggestions channel where they can post songs they'd like me to add to the class playlist (which I play on in the background when they're working on in-class exercises).
 
 ![Slack music suggestions](images/slack-classroom-music.png)
 
 ### Requiring an Introduction
-Early in the semester I assign an exercise that requires them to post to the \#introductions channel, so I can be sure they've set up an account and figured out how to join a channel. In my web class, I also use this as a way to collect their GitHub usernames, which I need later in the term. 
+To nudge students into setting up an account and using it to post content, I assign an exercise at the start of the term that requires them to post to the \#introductions channel, so I can be sure they've set up an account and figured out how to join a channel. In my web class, I also use this as a way to collect their GitHub usernames, which I will need later in the term. 
 
 ![Slack intros](images/slack-classroom-intros.png)
 
 ### Slack-Only Opportunities
-There are a few things I tell them I will only respond to via Slack--for instance, if I offer an opportunity for them to resubmit a project with a low grade, I'll say they need to contact me via Slack to request that I regrade the new version.
+I tell students that they're welcome to continue using email to contact for me for course related issues, and that after the initial introduction exercise is done they can choose not to check Slack again. However, I also do offer some "bonus" opportunities for those who do use Slack--for instance, when I recently offered my web design students the opportunity to resubmit a project for an improved grade, I told them that they needed to contact me via Slack (and include a link) to request that I regrade their revision.
 
 ### Easy Access to Slack (and GitHub) from LMS
-Our LMS (Brightspace, formerly D2L, makes it possible to customize the navigation bar for a class, and to include custom links. I added links to both the GitHub repo and the Slack workspace from that, as well as adding a prominent "news" item on the first page with links to both. 
+Our LMS (Brightspace, formerly D2L, allows customization of the navigation bar for a class. I added custom links to both the GitHub repo and the Slack workspace from that, as well as adding a prominent "news" item on the first page with links to both. 
 
 ![Slack links in LMS](images/slack-lms-link.png)
 
 ### Committment to Quick Responses
-Most importantly, I've made a commitment to respond quickly to student messages. The way I've managed this without getting overwhelmed is put the Slack client on my phone's home screen. I check for new notifications several times a day, and quickly acknowledge any incoming messages--but if it's not something that can be immediately responded to, I let them know I'll get back to them, and I mark it with a star for later access. At the end of the day, I take the time to go through and respond to the marked messages. 
+Most importantly, I've committed to responding quickly to student messages. I have the Slack client on my phone's home screen, and I check for new notifications at least twice a day. If a message can be answered quickly, I do it then. If not, I acknowledge it, let them know I'll get back to them, and mark it with a star for later access. When I have a little more time, I go through my starred messages and respond in more depth. 
 
 (The example below also shows how easy it is for them to share code with me in their messages.)
 
 ![Slack response](images/slack-snippet.png)
 
+## Slack vs Email
+I have not stopped using email for communicating with students, of course. Anything that I might need a "paper trail" on--warnings about grades, requests to meet with them in my office hours, etc--still gets sent by email. And there are definitely students who prefer using a familiar mode of communication to contact me. 
 
-I have not stopped using email for communicating with students, of course. Anything that I need a "paper trail" on--warnings about grades, requests to meet with them in my office hours, etc--still gets sent by email. And a student can be perfectly successful in my class without ever using Slack beyond the initial introduction assignment. 
+Ideally, though, I want my students to see Slack as an easy and non-threatening environment to ask questions, make comments, and get help. I tell them (and it's true) that it allows me to prioritize their messages over the piles of email that I get on a daily basis. And I've found that once I get them over the adoption hump, most of them appreciate Slack's informality and ephemerality. Most importantly, I hear from far more students who have questions or concerns than I did in the past. 
 
-Ideally, though, I want them to see Slack as a good way to ask questions, make comments, and get help. I've found that once I get them over the adoption hump, they really appreciate its informality and ephemerality, and I get far more opportunities to hear from students who have questions or concerns than I did in the past. 
-
-| [Previous: Using GitHub for Course Materials](usingGithub.md) | [Main Page](README.md) | [Next: Creating Your Own Content on GitHub](creatingGithub.md) |
+| [Previous: Using GitHub](usingGithub.md) | [Main Page](README.md) | [Next: Creating GitHub Content](creatingGithub.md) |
 |--------------------------------|-----------------------------|------------------------|
 
 ***This page is part of Liz Lawley's [Fork Your Syllabus, You Slacker! : A DML Teach-In, 6 October 2017](https://dml2017.sched.com/event/0f03a40b042cc1a6f4e73a78a62d0305)***
