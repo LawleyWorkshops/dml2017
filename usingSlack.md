@@ -28,7 +28,7 @@ To address that problem, I renamed the \#general channel (which all new users ar
 I also walk them through how to change notifications for the workspace, so that they don't get constant notifications from channels that are lower priority. 
 
 ### Inviting Information Engagement
-I create some non-classwork channels that invite participation--this semester I created a music suggestions channel where they can post songs they'd like me to add to the class playlist (which I play on in the background when they're working on in-class exercises).
+In each class workspace, I create at least one non-classwork channel that invites playful participation--this semester I created a music suggestions channel where they can post songs they'd like me to add to the class playlist (which I play on in the background when they're working on in-class exercises).
 
 ![Slack music suggestions](images/slack-classroom-music.png)
 
