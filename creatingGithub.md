@@ -42,7 +42,7 @@ Want to try forking a repository yourself? If you're logged into your GitHub acc
 
 ## GitHub "Organizations"
 
-You may have noticed that these course materials aren't in my [personal GitHub account](https://github.com/mamamusings)--they're in a GitHub organization called LawleyWorkshops. And my fall 2017 class repositories are all in an organizational called LawleyFall2017. 
+You may have noticed that these course materials aren't in my [personal GitHub account](https://github.com/mamamusings)--they're in a GitHub organization called [LawleyWorkshops](https://github.com/LawleyWorkshops). And my fall 2017 class repositories are all in an organization called [LawleyFall2017](https://github.com/LawleyFall2017). 
 
 Since GitHub doesn't allow you to create any organizational structure for repositories, organizations provide a way to group related content together. We won't have time to talk about organizations today, but if you start using GitHub on a regular basis, you may want to consider using organizations to group repositories for specific classes or semesters. If you do this, and want to include private repositories, you will also need to apply for an educational discount for each organization.   
 
