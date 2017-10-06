@@ -3,20 +3,45 @@
 
 # Creating Content on GitHub
 
-***Still under construction***
+There are two basic ways to create content on GitHub. One is to make a copy of ("fork") an existing repository of content and modify that; the other is to create an entirely new repository with your own original content. 
 
-## Copying and Modifying an Existing Repo
+GitHub has an excellent "Bootcamp" with articles describing the basics of each of these processes, so I'm not going to replicate that information here. 
 
-Up in the top right corner of this repo, you can see something labeled "Fork". That shows you how many people have made their own copies of the course repo here on GitHub, so that they can change and/or extend it. This is a brand-new repo, so the number is likely to be very small right now. Some of those are faculty members who are adapting my materials for their own use. Some are students who want their own local copy of the course materials. (It's not surprising that there are more forks of my web development materials, since that's a class where we actually teach students how to use git and GitHub!)
+- [Create a Repo](https://help.github.com/articles/create-a-repo/)
+- [Fork a Repo](https://help.github.com/articles/fork-a-repo/)
 
-![IGME-230 GitHub repo header screenshot](images/accessingGithub-forkcount.png)
+## Creating vs Forking Content
+If there's already a repository of content that's similar to what you're trying to create, it probably makes sense to fork that repo and then modify it. If not, you'll need to create a new repository to house your content. 
 
-When I'm teaching a class to students who have experience using GitHub, I invite them to help me fix any errors that they find in my materials. If I've left out a step in an exercise, or there's a broken link in my readings, they can edit the file themselves and submit the changes for me to review and incorporate. It's a lot more efficient than asking them to email me suggested changes that I then have to hunt down in the materials! All they need is an account on GitHub and a web browser. In fact, if you're logged into GitHub right now, you can do the same thing; I'll demo it in the session. 
+Let's use my survey class as an example. I created that repository from scratch rather than forking my existing web design class repo, because the content is significantly different between the two classes. 
+
+However, I have several colleagues who are teaching sections of the same course, and who wanted to build on what I'd already created. They used GitHub to "fork" my repository, which placed a copy of the files in their personal GitHub account. But GitHub doesn't just copy the files--it also keeps track of the connection between the original repository and your copy. On the original repo, you can see all copies that have been forked from it; on the forked copy, you can see a link back to the original. 
+
+Here's an example of how that happened with [the course repo.  
+
+If you look at the top of any page in [my course repo](https://github.com/LawleyFall2017/110-fall2017), you'll see an indicator telling you how many times the repository has been forked. There are two other people teaching sections of the same class this semester, and each of them has forked a copy of my repo. If you click on that number 2, you'll get more information about the network of connected repositories. 
+
+![GitHub fork count](images/github-forkcount.png)
+
+There's a lot of information to unpack here, but for now we'll just look at the "Members" section, which shows you the two users who forked this repo, and provides links to their copies. 
+
+![GitHub fork count](images/github-forks.png)
+
+My colleagues can then modify their copies for use in their own classes. If they make a change that they think I'd like to incorporate into my original--like correcting a typo, or adding a link to a new reading--they can do that by creating something called a "pull request." 
+
+![GitHub fork count](images/github-pull-request.png)
+
+Why "pull" and not "push"? Because they don't have permission to push content into my repository. Instead, they save the changes to their own repository, and then generate a request that asks me to pull that change into my own copy. I can choose to accept that request and incorporate their changes, or to reject it. 
+
+Want to try forking a repository yourself? If you're logged into your GitHub account, you can click on the word "Fork" at the top of this page and it will make a copy of these workshop materials in your own GitHub account! You can then edit those materials in whatever way you'd like. 
 
 
-## Creating a Completely New Repo 
+## GitHub Educational Discounts
+In general, free GitHub accounts can only be used to create public rather than private repositories. However, GitHub offers [educational discounts](https://education.github.com) that allow both students and teachers to create private repos at no cost.  
 
-There are two primary ways to provide non-code content on GitHub. One way is to use its built-in web page creation tools [(GitHub Pages)](https://pages.github.com/) to create a website with your content. I won't be covering that in this workshop. The other way, which is what I'll be showing (and what you're currently using), is creating human-readable documents directly in a repository by using a simple markup language called Markdown.
+
+
+
 
 | [Previous: Using Slack](usingSlack.md) | [Main Page](README.md) | [Next: Creating a Slack Workspace](creatingSlack.md) |
 |--------------------------------|-----------------------------|------------------------|

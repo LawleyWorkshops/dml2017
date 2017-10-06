@@ -18,7 +18,7 @@ You're currently using the GitHub repo that I set up for this workshop. I'll tak
 Before I show you how to create your own content on GitHub, we'll talk about why I use Slack for individual and group communication in my classes. You'll join a Slack workspace I've set up for this workshop, which you can then use to post questions and comments as we get into the more technical details of the two systems.  
 
 ### 4. [Creating Content on GitHub](creatingGithub.md)
-I'll show you how to add content to an existing repo, make a copy of an existing repo that you can modify for your own use, and create a completely new repo in your personal GitHub account. I'll also show you how (and why) to create a GitHub "organization" for your own classes, and how apply for an educational discount for your class organization. 
+I'll show you how to copy and modify an existing repo, and how to create a completely new repo in your personal GitHub account. I'll also show you how (and why) to create a GitHub "organization" for your own classes, and apply for an educational discount for your class organization. 
 
 ### 5. [Creating Your Own Class Slack Workspace](creatingSlack.md)
 If there's time, I'll also walk you through the process of creating and customizing a new Slack workspace for use in your classroom. 
